@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    }
+    body{
+        background-image: url(ocean-sunset-wallpaper.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .prof{
+        font-size: 20px;
+        color: black;
+        padding-top: 50px;
+        padding-left: 0px;
+    }
+    nav{
+        height: 100px;
+        width: 100%;
+        background-color: rgb(0, 35, 68);
+    }
+    .logo{
+    font-family: verdana;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 80px;
+    color: rgb(0, 0, 0);
+    }
+    a{
+        color: black;
+    }
+    a:hover{
+        color: rgb(247, 113, 3);
+    }
+    li{
+        float: left;
+        padding-left: 25px;
+        margin-top: 25px;
+        font-weight: bold;
+        font-size: 50px;
+        color: rgb(255, 255, 255);
+    }
+    label{
+        float: left;
+    }
+    .about{
+        padding-top: 50px;
+        padding-left: 100px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 35px;
+        font-weight: bold;
+        color: white;
+    }
+    .para{
+        padding-left: 100px;
+        padding-top: 35px;
+        padding-right: 100px;
+        font-size: 25px;
+        font-family: cambria;
+    }
+    .me{
+        float: center;
+    }
